@@ -9,7 +9,7 @@ python3 random-words.py x
 
 If run without a value for x, the default value is 1.
 
-##Shell command usage
+## Shell command usage
 
 Added Shell command. To use:
 - Update the path in .my_commands.sh to the absolute path of your download directory.
